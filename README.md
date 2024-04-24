@@ -27,8 +27,4 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) on a home 
 - Perform correlation analysis to identify relationships between numeric variables and visualize them using a heatmap.
 - Create a stacked bar chart to show the distribution of categorical variables across multiple categories.
 
-### Task 3: Geospatial Analysis (Optional)
-- Visualize data on a map to identify regional trends if the dataset contains geographical information.
-- Use scatter plots or heatmaps to display data patterns across geographic locations.
-
 This project demonstrates proficiency in data exploration, visualization, and analysis techniques, showcasing the ability to derive insights from complex datasets and effectively communicate findings through visual representations.
